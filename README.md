@@ -14,7 +14,6 @@ Python
 TensorFlow / Keras
 Pandas, NumPy
 Scikit-Learn
-Matplotlib / Seaborn (for visualization)
 
 Implementation Steps:
 
